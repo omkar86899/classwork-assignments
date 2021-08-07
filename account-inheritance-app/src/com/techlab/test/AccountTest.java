@@ -7,7 +7,6 @@ import com.techlab.model.SavingAccount;
 public class AccountTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		SavingAccount s1 = new SavingAccount(10,"rajesh",1000);
 		s1.deposit(1000);
 		s1.withdrwal(1600);
